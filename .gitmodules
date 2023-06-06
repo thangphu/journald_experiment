@@ -1,6 +1,6 @@
-[submodule "cpp_proj/uberlog"]
-	path = cpp_proj/uberlog
-	url = https://github.com/IMQS/uberlog.git
 [submodule "cpp_journald/uberlog"]
 	path = cpp_journald/uberlog
 	url = https://github.com/IMQS/uberlog.git
+[submodule "rust_journald"]
+	path = rust_journald
+	url = https://github.com/thangphu/rust_journald.git
