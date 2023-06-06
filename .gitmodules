@@ -1,0 +1,6 @@
+[submodule "cpp_proj/uberlog"]
+	path = cpp_proj/uberlog
+	url = https://github.com/IMQS/uberlog.git
+[submodule "cpp_journald/uberlog"]
+	path = cpp_journald/uberlog
+	url = https://github.com/IMQS/uberlog.git
